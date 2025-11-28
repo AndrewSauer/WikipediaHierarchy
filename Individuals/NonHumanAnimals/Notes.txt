@@ -1,1 +1,1 @@
-This contains all nonhuman animal individuals who have a recorded, agreed-upon approximate date of birth, whether or not they are mythical.
+This contains all nonhuman animal individuals, whether or not they are mythical.
